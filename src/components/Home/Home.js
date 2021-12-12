@@ -41,7 +41,7 @@ const moviess = [
     id:5,
     title: "Kung Fu Panda 3",
     description: "2016",
-    posterURL: "https://imgsrc.cineserie.com/2016/08/1543363.jpg?ver=1",
+    posterURL: "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_FMjpg_UX1000_.jpg",
     rating: "3",
     trailer:"https://www.youtube.com/embed/fGPPfZIvtCw",
   },
